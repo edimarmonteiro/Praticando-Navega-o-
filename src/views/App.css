@@ -1,0 +1,5 @@
+.App{
+    display: flex;
+    /*Quanto da tela ira oucupar*/
+    height: 100vh;
+}
